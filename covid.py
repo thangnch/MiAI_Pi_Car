@@ -5,7 +5,7 @@ import cv2
 from imutils.video import VideoStream
 import imutils
 
-motor1_standard_cycle = 39
+motor1_standard_cycle = 0
 motor2_standard_cycle = 75
 current_motor1_duty = 0
 current_motor2_duty = 0
